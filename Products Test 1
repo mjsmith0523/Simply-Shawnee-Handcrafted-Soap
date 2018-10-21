@@ -1,0 +1,745 @@
+<p><strong>How to care for your handcrafted soap:&nbsp;</strong><br />
+&middot; Don&#39;t let your soap sit in water.&nbsp;<br />
+&middot; Store soap on a well drained soapdish.&nbsp;<br />
+&middot; Allow soap plenty of fresh air todry between uses.&nbsp;<br />
+&middot; Never place soap where shower water can hit it.&nbsp;<br />
+&middot; If your your soap gets waterlogged and becomes gooey, simply put it on a draining soapdish for a few days and let it dry out thoroughly.&nbsp;</p>
+
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item1" name="item" type="checkbox" />
+	<p style="text-align: center;"><label for="item1"><img alt="" src="/images/oatmeal-milk-honey.jpg" style="width: 250px; height: 375px;" /><br />
+	Oatmeal, Milk, &amp; Honey</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Oatmeal, Milk, &amp; Honey<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Description&nbsp;Coming Soon&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong><strong>Ingredients:&nbsp;</strong></strong>Coming Soon&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item6" name="item" type="checkbox" />
+	<p><label for="item6"><img alt="" src="/images/wisteria-lilac.jpg" style="width: 250px; height: 375px;" /><br />
+	Lavender Oatmeal</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Lavender Oatmeal&nbsp;<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Description Coming Soon&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:</strong>Coming Soon&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item11" name="item" type="checkbox" />
+	<p><label for="item11"><img alt="" src="/images/exotic-plumeria.jpg" style="width: 250px; height: 375px;" /><br />
+	Exotic Plumeria</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Exotic Plumeria &nbsp;<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Plumeria Jasmine Is native to the Polynesian islands and known for it&#39;s exotic scent. Mixtures of scents containing plumeria are also known as &quot;champa.&quot; For example, Nag Champa is a blend of plumeria and sandalwood and other exotic scents. Jasmine is known for its enticing floral notes and is one of the most sought after scents in perfumery.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Sodium Hydroxide, Aloe Vera Juice, Olive Oil, Cocoa Butter, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item2" name="item" type="checkbox" />
+	<p><label for="item2"><img alt="" src="/images/pink-sugar.jpg" style="width: 250px; height: 375px;" /><br />
+	Harmony</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Harmony<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>This soap fragrance is a delightful blend of lime, litsea, grapefruit, lemon and bergamot essential oils.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:</strong> Coconut Oil, Elder Flower Infused Olive oil, Aloe Vera Juice, Sodium Hydroxide, Kaolin Clay, Essential Oils of Lime, Litsea, Grapefruit, Lemon and Bergamot.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item7" name="item" type="checkbox" />
+	<p><label for="item7"><img alt="" src="/images/citrus-goddess.jpg" style="width: 250px; height: 375px;" /><br />
+	Pure Citrus</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Pure Citrus<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>A great clean and energizing scent with lemongrass, lemon verbena, bergamot and rosewood notes.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Manteca, Aloe Vera Juice, Sodium Hydroxide, Coconut Oil, Canola Oil, Caster oil, Cocoa Butter, Tussah silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item12" name="item" type="checkbox" />
+	<p><label for="item12"><img alt="" src="/images/orange-patchouli.jpg" style="width: 250px; height: 375px;" /><br />
+	Orange Patchouli</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Orange Patchouli<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Our Orange Patchouli fragrance oil has nuances of oak moss, violet and cedar wood. It is a delicious and deep fragrance that performs beautifully in cold process!&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Sodium Hydroxide, Aloe Vera Juice, Olive Oil, Cocoa Butter, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item3" name="item" type="checkbox" />
+	<p><label for="item3"><img alt="" src="/images/just-peachy.jpg" style="width: 250px; height: 375px;" /><br />
+	Egyptian Musk</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Egyptian &nbsp;<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>This exceptional Egyptian must is defined by a soft, sensual aroma that delights both the senses of the wearer and anybody who smells it. Its clean, fresh and sweet scent is suitable for both men and women.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Manteca, Aloe Vera Juice, Sodium Hydroxide, Fragrance, Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item8" name="item" type="checkbox" />
+	<p><label for="item8"><img alt="" src="/images/alluring.jpg" style="width: 250px; height: 375px;" /><br />
+	The Woodlands</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>The Woodlands<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>The scent of Sun-Warmed Figs, Italian Bergamot and White Tea Leaves is entwined with notes of Jasmine, Sweet Heliotrope and Sandalwood enveloping the wearer in the warmth of the Woods.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Manteca, Aloe Vera Juice, Mica, Fragrance, Tussah Silk</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item13" name="item" type="checkbox" />
+	<p><label for="item13"><img alt="" src="/images/rosemary-mint.jpg" style="width: 250px; height: 375px;" /><br />
+	Spearmint &amp; Eucalyptus</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Spearmint and Eucalyptus<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>This soap is a clean and invigorating herbal blend of Eucalyptus and Spearmint. &nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Olive Oil, Aloe Vera Juice, Sodium Hydroxide, Castor Oil, Ground Spearmint, Oat Straw Powder, Essential Oils of Spearmint and Eucalyptus, Tussah Silk</p>
+		</li>
+		<li style="list-style: none;">
+		<p>&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item4" name="item" type="checkbox" />
+	<p><label for="item4"><img alt="" src="/images/seasalt-lotus-blossom.jpg" style="width: 250px; height: 375px;" /><br />
+	Sea Salt &amp; Lotus Blossom</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Sea Salt &amp; Lotus Blossom<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Description Coming Soon&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients</strong>:Coming Soon&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item9" name="item" type="checkbox" />
+	<p><label for="item9"><img alt="" src="/images/sweet-floral.jpg" style="width: 250px; height: 375px;" /><br />
+	Simply Amazing!</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Simply Amazing </strong><br />
+		<strong>3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>A feminine fragrance oil that will make you feel pretty...oh so pretty! &nbsp;Italian bergamot and sparkling lemon are sweetened with freshly picked citron and neroli. &nbsp;A white floral jasmine, orange blossom and rose are blended with sheer musk and cedar wood.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Aloe Vera Juice, Sodium Hydroxide, Castor Oil, Shea Butter, Kaolin Clay, Fragrance, Tussah, Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item14" name="item" type="checkbox" />
+	<p><label for="item14"><img alt="" src="/images/sexy-lime.jpg" style="width: 250px; height: 375px;" /><br />
+	Mystical Lime</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Mystical Lime<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>French Lime Jo Malone Type Fragrance Oil The scent of sweet lime blossoms with a twist of bergamot and tarragon.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Tallow, Olive Oil, Aloe Vera Juice, Sodium Hydroxide, Coconut Oil, Fragrance, Tussah Silk</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item5" name="item" type="checkbox" />
+	<p><label for="item5"><img alt="" src="/images/lavender-vanilla.jpg" style="width: 250px; height: 375px;" /><br />
+	White Cotton</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>White Cotton &nbsp;<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>This White Cotton fragrance is reminiscent of a summer breeze blowing through freshly laundered clothes. It contains notes of floral, lilac, and jasmine with an amber and musk base.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:</strong>Coconut Oil, Aloe Vera Juice, Sodium Hydroxide, Manteca, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item10" name="item" type="checkbox" />
+	<p><label for="item10"><img alt="" src="/images/cucumber-mint.jpg" style="width: 250px; height: 375px;" /><br />
+	Just Beachy</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Just Beachy&nbsp;<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>&nbsp;A fruity, sugary, and wonderfully floral. Be whisked away to the beach, sipping daiquiris and enjoying all life has to offer!&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Aloe Vera Juice, Sodium Hydroxide, Olive Oil, Cocoa Butter, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item15" name="item" type="checkbox" />
+	<p><label for="item15"><img alt="" src="/images/exoticplumeria.jpg" style="width: 250px; height: 375px;" /><br />
+	Gentle Orange</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Gentle Orange<br />
+		3.5 oz bar&nbsp;</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Bright, fruity and soft. If you could smell sunshine, it would smell like this! Soft and gentle orange fragrance.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Sodium Hydroxide, Aloe Vera Juice, Olive Oil, Cocoa Butter, Fragrance, &nbsp;Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item16" name="item" type="checkbox" />
+	<p><label for="item16"><img alt="" src="/images/orangepatchouli.jpg" style="width: 250px; height: 375px;" /><br />
+	Beach Breeze</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Beach Breeze<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Ripe cantaloupe and juicy watermelon. &nbsp;Then comes the sweetness... pure sugarcane, the kind you can buy at an open farmer&#39;s market. Then the gentle aroma of thick, meaty petals of fragrant blooming Lilies and the ocean breeze.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Manteca, Coconut Oil, Aloe Vera Juice, Rice Bran, Castor Oil, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item18" name="item" type="checkbox" />
+	<p><label for="item18"><img alt="" src="/images/sexylime.jpg" style="width: 250px; height: 375px;" /><br />
+	Sea Salt and Sage</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Sea Salt and Sage<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Fresh sea salt mingled with the woody earthiness of sage. &nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong><br />
+		Salt bar soap with Coconut Oil, Himalayan Sea Salt, Aloe Vera Juice, Sodium Hydroxide, Olive Oil, Shea Butter, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item20" name="item" type="checkbox" />
+	<p><label for="item20"><img alt="" src="/images/sexylime.jpg" style="width: 250px; height: 375px;" /><br />
+	Orange Spearmint&nbsp;</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Orange Spearmint<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>A refreshing and clean scent of orange and spearmint that&rsquo;s ideal for bath time!</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Orange Infused Olive Oil, Aloe Vera Juice, Sodium Hydroxide, Calendula, Kaolin Clay, French Clay, Coconut Powder, Essential Oils of Ylang Ylang, Clove, Orange and Spearmint, Tussah Silk</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item17" name="item" type="checkbox" />
+	<p><label for="item17"><img alt="" src="/images/rosemarymin.jpg" style="width: 250px; height: 375px;" /><br />
+	Juicy Orange</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Juicy Orange<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Orange Blossom Fragrance Oil A bit of orange (just a squeeze!) with a bold, clean white floral top note.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Sodium Hydroxide, Aloe Vera Juice, Olive Oil, Cocoa Butter, Fragrance, Tussah Silk</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item19" name="item" type="checkbox" />
+	<p><label for="item19"><img alt="" src="/images/sexylime.jpg" style="width: 250px; height: 375px;" /><br />
+	Fabulous Olive</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Fabulous Olive<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>This gentle olive oil soap is great for sensitive skin!</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:</strong>&nbsp;Olive Oil, Aloe Vera juice, Sodium Hydroxide, Castor, Shea Butter, Fragrance, Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column3">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item21" name="item" type="checkbox" />
+	<p><label for="item21"><img alt="" src="/images/sexylime.jpg" style="width: 250px; height: 375px;" /><br />
+	Celebrate</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Celebrate<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>Orange lime and cognac marry together in this fragrance oil to create a remarkable and unique citrus scent that sticks like crazy in cold process soaps!&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Sodium Hydroxide, Aloe Vera Juice, Olive Oil, Cocoa Butter, Fragrance, Tussah Silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+<div class="row">
+<div class="column1">
+<div class="product-fold">
+<ul>
+	<li class="block"><input id="item22" name="item" type="checkbox" />
+	<p><label for="item22"><img alt="" src="/images/sexylime.jpg" style="width: 250px; height: 375px;" /><br />
+	Unique</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p style="text-align: center;"><strong>Unique<br />
+		3.5 oz bar</strong></p>
+		</li>
+		<li style="list-style: none;">
+		<p>THIS UNIQUE AND VERY LIGHT fragrance features bergamot, lemon, lavender, rose, jasmine, ylang-ylang, sandalwood and musk.</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Ingredients:&nbsp;</strong>Coconut Oil, Aloe Vera Juice, Sodium Hydroxide, Olive Oil, Cocoa Butter, Fragrance, Tussah silk, Mica</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="column2">
+</div>
+
+<div class="column3">
+</div>
+</div>
+<div class="clear">&nbsp;</div>
