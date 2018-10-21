@@ -1,0 +1,351 @@
+/* Customer CSS */
+.sbContainer .logo-container .logo a img {
+max-height:170px;
+}
+
+#products-img {
+max-width:250px;
+}
+
+#page-products .library_wrapper,#page-faq .library_wrapper,#page-privacy .library_wrapper,#page-simply-shawnee-handcrafted-soap .library_wrapper,#page-soap-club .library_wrapper,#page-whole-sale .library_wrapper,#page-disclaimer .library_wrapper {
+display:none!important;
+}
+
+#page-products .page-content.body_subpages .slot-main-wrapper,#page-faq .page-content.body_subpages .slot-main-wrapper,#page-privacy .page-content.body_subpages .slot-main-wrapper,#page-simply-shawnee-handcrafted-soap .page-content.body_subpages .slot-main-wrapper,#page-soap-club .page-content.body_subpages .slot-main-wrapper,#page-whole-sale .page-content.body_subpages .slot-main-wrapper,#page-disclaimer .page-content.body_subpages .slot-main-wrapper {
+width:100%!important;
+}
+
+.column1 {
+width:33%;
+height:auto;
+float:left;
+}
+
+.column2 {
+width:33%;
+height:auto;
+float:left;
+}
+
+.column3 {
+width:33%;
+height:auto;
+float:left;
+}
+
+.product-column1 {
+width:50%;
+height:auto;
+float:left;
+}
+
+.product-column2 {
+width:50%;
+height:auto;
+float:left;
+padding-left:20px;
+}
+
+.clear {
+clear:both;
+}
+
+.sbContainer #slot-links {
+display:none!important;
+}
+
+.sbContainer .doctor_info_wrapper_outer .doctor_info_wrapper #slot-mainImg img {
+max-width:215px!important;
+}
+
+/*==Custom Colors==*/
+#page-index .sbContainer header {
+background-color:#fff;
+}
+
+.sbContainer header {
+background-color:#f0ecc5;
+}
+
+.sbContainer .nav-primary ul li.active>a {
+color:#bbada0;
+}
+
+.sbContainer .nav-primary ul li.active>a:after {
+background-color:#bbada0;
+}
+
+.sbContainer .nav-primary ul li a {
+color:#978d81;
+}
+
+.sbContainer .nav-primary ul li a:hover {
+color:#bbada0;
+}
+
+.sbContainer .nav-primary ul .magic-line {
+background-color:#bbada0;
+}
+
+.sbContainer a {
+color:#978d81;
+}
+
+.sbContainer a:hover {
+color:#bbada0;
+}
+
+.sbContainer .hor-separator {
+background-color:#879b60;
+}
+
+.sbContainer .doctor_info_wrapper_outer {
+background-color:#a7c175;
+}
+
+.sbContainer .button--submit-colors:hover,.sbContainer .sbContactResponsive .btn:hover,.sbContainer .sbContactResponsive .submit:hover,.sbContainer #sbBlogPosts .sbBlogComments .btn:hover,.sbContainer #sbBlogPosts .sbBlogComments .submit:hover,.sbContainer .blog-container .sbBlogComments .btn:hover,.sbContainer .blog-container .sbBlogComments .submit:hover,.sbContainer .doctor_info_wrapper_outer .doctor_info_wrapper #slot-responsive-appt-request a:hover,.sbContainer #sbAppointment .btn:hover,.sbContainer #sbAppointment .submit:hover,.sbContainer .leadForm .btn:hover,.sbContainer .leadForm .submit:hover {
+border-color:#879b60;
+color:#fff;
+background-color:#879b60;
+}
+
+.sbContainer .button--submit-colors,.sbContainer .sbContactResponsive .btn,.sbContainer .sbContactResponsive .submit,.sbContainer #sbBlogPosts .sbBlogComments .btn,.sbContainer #sbBlogPosts .sbBlogComments .submit,.sbContainer .blog-container .sbBlogComments .btn,.sbContainer .blog-container .sbBlogComments .submit,.sbContainer .doctor_info_wrapper_outer .doctor_info_wrapper #slot-responsive-appt-request a,.sbContainer #sbAppointment .btn,.sbContainer #sbAppointment .submit,.sbContainer .leadForm .btn,.sbContainer .leadForm .submit {
+border-color:#879b60;
+color:#333;
+background-color:transparent;
+}
+
+.sbContainer footer .nav-primary ul li.active>a:after {
+background-color:#a7c175;
+}
+
+.sbContainer footer .nav-primary ul li a:hover {
+color:#a7c175;
+}
+
+.sbContainer footer .nav-primary ul li a {
+color:#f0ecc5;
+}
+
+.sbContainer .social-media ul li a {
+background-color:#a7c175;
+}
+
+.sbContainer .social-media ul li a:hover {
+background-color:#f0ecc5;
+}
+
+.sbContainer .social-media ul li a:before {
+color:#978d81;
+}
+
+.sbContainer footer #slot-footer3 ul li a {
+color:#f0ecc5;
+}
+
+.sbContainer footer .nav-primary ul .magic-line {
+background-color:#a7c175;
+}
+
+.sbContainer footer {
+background-color:#978d81;
+}
+
+.sbContainer .inner-page-title-wrapper {
+background-color:#879b60;
+}
+
+#page-index .sbContainer .page-content-wrapper {
+background-color:#f0ecc5;
+}
+
+.sbContainer .page-content #slot-main ul li:before {
+color:#879b60;
+}
+
+/*==Form Icons==*/
+.sbContactResponsive .form__group.sbName:before {
+background:url(/images/contact-name-icon-03.png);
+}
+
+.sbContactResponsive .form__group.sbEmail:before {
+background:url(/images/contact-email-icon-03.png);
+}
+
+.sbContactResponsive .form__group.sbPhone:before {
+background:url(/images/contact-phone-icon-03.png);
+}
+
+/*==SLIDER==*/
+@media (min-width: 992px) {
+.sbContainer .slider>.sbWidget .slide {
+background-position:50% 0!important;
+}
+}
+
+.ofc_slide1 {
+background-image:url(/images/custom/a1.jpg)!important;
+background-position:center;
+}
+
+.ofc_slide2 {
+background-image:url(/images/custom/a3.jpg)!important;
+background-position:center;
+}
+
+.ofc_slide3 {
+background-image:url(/images/custom/a2.jpg)!important;
+background-position:center;
+}
+
+.ofc_slide4 {
+background-image:url(/images/custom/a4.jpg)!important;
+background-position:center;
+}
+
+/*==Media Queries==*/
+@media (min-width: 991px) {
+img.custom-int-img {
+float:right;
+width:315px;
+margin-top:10px;
+margin-left:30px;
+}
+}
+
+@media (max-width: 450px) {
+.column1 {
+width:100%;
+height:auto;
+float:left;
+}
+
+.column2 {
+width:100%;
+height:auto;
+float:left;
+}
+
+.column3 {
+width:100%;
+height:auto;
+float:left;
+}
+
+.product-column1 {
+width:100%;
+height:auto;
+float:left;
+}
+
+.product-column2 {
+width:100%;
+height:auto;
+float:left;
+}
+
+.clear {
+clear:both;
+}
+}
+
+.sbContainer .doctor_info_wrapper_outer .doctor_info_wrapper .meet_doctor_info .meet_doctor_title {
+font-size:40px;
+font-family:"montserrat-light",Arial,Helvetica,sans-serif;
+text-transform:capitalize;
+}
+
+/* CUSTOM BUTTON */
+.product-btn {
+margin-top:0;
+margin-left:115px;
+}
+
+
+.product-btn a {
+    border-radius: 30px;
+    padding: 5px 15px;
+    text-transform: uppercase;
+    background-color: #879b60;
+    border-color: #879b60;
+    color: #FFF;
+ }
+
+.product-btn a:hover {
+    color: #FFF;
+    background-color: #f0ecc5;
+}
+
+/* =========== ACCORDION ============ */
+.block {
+list-style-type:none!important;
+}
+
+.sbContainer .page-content .options {
+margin:0;
+}
+
+ul li label {
+text-align:center;
+display:block;
+padding:12px;
+width:300px;
+background:#f0ecc5;
+color:#777;
+margin: 0 auto;
+transition:all ease .5s;
+}
+
+ul li label:hover {
+background:#879b60;
+color:#fff;
+}
+
+.options {
+height:0;
+display:block;
+overflow:hidden;
+}
+
+ul.options {
+padding-top:10px;
+-webkit-transition:all .7s;
+-moz-transition:all .7s;
+-ms-transition:all .7s;
+-o-transition:all .7s;
+transition:all .7s;
+max-height:0;
+display:block;
+overflow:hidden;
+opacity:1;
+}
+
+.options li {
+padding-right:2em;
+}
+
+.product-fold ul {
+padding-left:0!important;
+}
+
+.sbContainer .page-content #slot-main .product-fold ul li:before {
+content:none;
+}
+
+ul li input[type='checkbox'] {
+display:none;
+}
+
+ul li input[type='checkbox']:checked ~ .options {
+height:auto;
+display:block;
+min-height:40px;
+max-height:1000px;
+}
+
+ul li input[type='checkbox']:checked ~ label {
+background-color:#879b60;
+color:#fff;
+}
+
+/* =========== END ACCORDION ========== */
