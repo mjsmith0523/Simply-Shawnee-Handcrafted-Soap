@@ -1,0 +1,295 @@
+<p><strong>How to care for your handcrafted soap:&nbsp;</strong><br />
+&middot; Don&#39;t let your soap sit in water.&nbsp;<br />
+&middot; Store soap on a well drained soapdish.&nbsp;<br />
+&middot; Allow soap plenty of fresh air todry between uses.&nbsp;<br />
+&middot; Never place soap where shower water can hit it.&nbsp;<br />
+&middot; If your your soap gets waterlogged and becomes gooey, simply put it on a draining soapdish for a few days and let it dry out thoroughly.&nbsp;</p>
+
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="product-fold" id="accordion">
+<ul>
+	<li class="block"><input id="item1" name="item" type="checkbox" />
+	<p style="text-align: center;"><label for="item1"><img alt="" src="/images/oatmeal-milk-honey.jpg" style="width: 250px; height: 375px;" /><br />
+	Oatmeal, Milk, &amp; Honey</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription </strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item2" name="item" type="checkbox" />
+	<p><label for="item2"><img alt="" src="/images/pink-sugar.jpg" style="width: 250px; height: 375px;" /><br />
+	Harmony</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item3" name="item" type="checkbox" />
+	<p><label for="item3"><img alt="" src="/images/just-peachy.jpg" style="width: 250px; height: 375px;" /><br />
+	Egyptian Musk</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item4" name="item" type="checkbox" />
+	<p><label for="item4"><img alt="" src="/images/seasalt-lotus-blossom.jpg" style="width: 250px; height: 375px;" /><br />
+	Sea Salt & Lotus Blossom</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item5" name="item" type="checkbox" />
+	<p><label for="item5"><img alt="" src="/images/lavender-vanilla.jpg" style="width: 250px; height: 375px;" /><br />
+	White Cotton</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="product-fold" id="accordion2">
+<ul>
+	<li class="block"><input id="item6" name="item" type="checkbox" />
+	<p><label for="item6"><img alt="" src="/images/wisteria-lilac.jpg" style="width: 250px; height: 375px;" /><br />
+	Lavender Oatmeal</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item7" name="item" type="checkbox" />
+	<p><label for="item7"><img alt="" src="/images/citrus-goddess.jpg" style="width: 250px; height: 375px;" /><br />
+	Pure Citrus</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item8" name="item" type="checkbox" />
+	<p><label for="item8"><img alt="" src="/images/alluring.jpg" style="width: 250px; height: 375px;" /><br />
+	The Woodlands</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item9" name="item" type="checkbox" />
+	<p><label for="item9"><img alt="" src="/images/sweet-floral.jpg" style="width: 250px; height: 375px;" /><br />
+	Simply Amazing!</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item10" name="item" type="checkbox" />
+	<p><label for="item10"><img alt="" src="/images/cucumber-mint.jpg" style="width: 250px; height: 375px;" /><br />
+	Just Beachy</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+<div class="product-fold" id="accordion3">
+<ul>
+	<li class="block"><input id="item11" name="item" type="checkbox" />
+	<p><label for="item11"><img alt="" src="/images/exotic-plumeria.jpg" style="width: 250px; height: 375px;" /><br />
+	Exotic Plumeria</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item12" name="item" type="checkbox" />
+	<p><label for="item12"><img alt="" src="/images/orange-patchouli.jpg" style="width: 250px; height: 375px;" /><br />
+	Orange Patchouli</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item13" name="item" type="checkbox" />
+	<p><label for="item13"><img alt="" src="/images/rosemary-mint.jpg" style="width: 250px; height: 375px;" /><br />
+	Spearmint & Eucalyptus</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+	<li class="block"><input id="item14" name="item" type="checkbox" />
+	<p><label for="item14"><img alt="" src="/images/sexy-lime.jpg" style="width: 250px; height: 375px;" /><br />
+	Mystical Lime</label></p>
+
+	<ul class="options">
+		<li style="list-style: none;">
+		<p><strong>Product&nbsp;Discription</strong><br />
+		Tebopun pade saseg niti obito; ca mege betasos. Pe enosaso tase he pemoh eramihe? Ya erepo te ru gepe ekimen, jerene roc torafa lu nilim hafoni colof. Ileg sin danem. Mesinib te apedel lel, epo igo oseri esekil onunenil ha otaseb gamasim mot lec. Wapi rin idel mede sedoke po casora.&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Price</strong><br />
+		$00 + Shipping&nbsp;</p>
+		</li>
+		<li style="list-style: none;">
+		<p><strong>Order Here</strong><br />
+		Button to Shop</p>
+		</li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+</div>
